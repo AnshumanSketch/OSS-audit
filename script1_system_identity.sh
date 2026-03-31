@@ -4,8 +4,8 @@
 # Course: Open Source Software
 
 # --- Variables ---
-STUDENT_NAME="Mitul Khanna"
-REG_NO="24BCE10976"
+STUDENT_NAME="Anshuman Mohapatra "
+REG_NO="24BSA10287"
 SOFTWARE_CHOICE="LibreOffice"
 
 # --- System Information ---
