@@ -1,7 +1,7 @@
 # Open Source Audit – LibreOffice on Fedora 43
 
-**Student Name:** Mitul Khanna  
-**Registration Number:** 24BCE10976  
+**Student Name:** Anshuman Mohapatra  
+**Registration Number:** 24BSA10287
 **Course:** Open Source Software  
 **Chosen Software:** LibreOffice
 
