@@ -30,12 +30,11 @@ The project also includes five Bash shell scripts that demonstrate practical Lin
 oss-audit-24BCE10976/
 ├── README.md
 ├── Project_Report.pdf
-├── scripts/
-│   ├── script1_system_identity.sh
-│   ├── script2_package_inspector.sh
-│   ├── script3_disk_auditor.sh
-│   ├── script4_log_analyzer.sh
-│   └── script5_manifesto_generator.sh
+├── script1_system_identity.sh
+├── script2_package_inspector.sh
+├── script3_disk_auditor.sh
+├── script4_log_analyzer.sh
+├── script5_manifesto_generator.sh
 └── screenshots/
     ├── script1_run.png
     ├── script2_run.png
